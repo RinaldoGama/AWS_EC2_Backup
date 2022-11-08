@@ -1,2 +1,2 @@
 # AWS_EC2_STOP
-STOP Programado no EC2 - AWS
+Script STOP Programado de instancias no EC2 - AWS
